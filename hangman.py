@@ -45,7 +45,6 @@ print("We'll see how well you did in the next stage")
 '''
 
 # Version 3.0
-
 '''import random
 
 words_list = ['python', 'java', 'kotlin', 'javascript']
