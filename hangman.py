@@ -31,6 +31,7 @@ for _i in range(1, 9):
     print(f"\n{hint}")
     letter = input("Input a letter: ")
 
+
     if letter in survive_word:
         for position in range(len(survive_word)):
             if letter == survive_word[position]:
