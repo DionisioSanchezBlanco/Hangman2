@@ -121,6 +121,7 @@ def control_correct_format(letter, hint, repeated_letters, lives):
 print("H A N G M A N")
 lets_play = input('Type "play" to play the game, "exit" to quit:')
 
+
 while lets_play == 'play':
     while lives > 0:
         print(f"\n{hint}")
