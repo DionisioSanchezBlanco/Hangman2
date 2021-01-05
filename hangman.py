@@ -141,6 +141,8 @@ while lets_play == 'play':
                 
                 hint = "".join(signs)
 
+
+
             if hint == survive_word:
                 break
 
